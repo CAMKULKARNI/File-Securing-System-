@@ -11,3 +11,6 @@ The four stages are:
 
 The project can be run by compiling the files project_functions.h and project_test.c.
 Intermediate files are generated which contain the encrypted form of the file.
+ 
+A video demo is available here:
+https://photos.app.goo.gl/5BrBt4NTJjdNuGR59
